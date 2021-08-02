@@ -3,7 +3,7 @@
 I'm a Frontend developer
 
 - 🔭 I’m currently working on WPO, PWA and Webcomponents
-- 🌱 I’m currently learning React and AngularJS
+- 🌱 Learning React and Angular
 - 📫 Contact me: me@miguelcolmenares.com
 
 
