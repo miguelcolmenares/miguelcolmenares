@@ -3,7 +3,7 @@
 I'm a Frontend developer
 
 - 🔭 I’m currently working with Next.js, PWA, and Web components
-- 📫 Contact me: me@miguelcolmenares.com
+- 📫 Contact me: miguelension[at]gmail.com
 
 
 ### Languages and Tools:
