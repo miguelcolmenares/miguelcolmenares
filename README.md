@@ -1,12 +1,12 @@
-### Hi there, I'm Miguel 👋
+### Hi there, I'm [Miguel Colmenares](https://miguelcolmenares.com) 👋
 
 I'm a Senior Software Engineer focused on the front end, with 17+ years of experience. I build pages that stay fast after they ship: Next.js and React in production since 2023, measured performance work (96 desktop Lighthouse, 0.8 s LCP on one platform), and headless WordPress behind them.
 
-I work with a habit I try to keep in every project: when a team solves the same problem twice, I turn the solution into something the next person can reuse. That is how I got to shared packages, the same standards of code, CI/CD and quality across more than 18 repositories, and base Docker images that pin every external dependency. I document it so other engineers can use it without asking me.
+I work with a habit I try to keep in every project: when a team solves the same problem twice, I turn the solution into something the next person can reuse. That is how I got to shared packages, the same standards of code, CI/CD and quality across repositories, and base Docker images that pin every external dependency. I document it so other engineers can use it without asking me.
 
 I learn the most from my mistakes. When something goes wrong, I write down the cause and the fix, so the next engineer does not make the same one.
 
-- 🔭 Currently building Next.js platforms for senior care, and the front end of [my site](https://miguelcolmenares.com)
+- 🔭 Currently building Next.js platforms for senior care, and personal open source projects
 - 📫 Contact: me@miguelcolmenares.com
 
 ### Skills and tools
